@@ -18,7 +18,6 @@ MyTube is a YouTube clone built with React and Firebase. It's a full-stack web a
 - **User Profiles:** User profiles with user-specific video uploads and liked videos.
 
 ## Demo
-[Insert a link to your project's live demo or YouTube video demo]
 
 ## Installation
 To run this project locally, follow these steps:
