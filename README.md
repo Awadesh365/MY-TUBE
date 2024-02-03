@@ -1,5 +1,5 @@
-# MyTube - A YouTube Clone
-
+# MyTube - A YouTube Clone Project
+ 
 ## Description
 MyTube is a YouTube clone built with React and Firebase. It's a full-stack web application that replicates many of the core features of the original YouTube platform, including video uploading, user authentication, comments, likes, and user profiles.
 
